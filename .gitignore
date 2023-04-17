@@ -1,4 +1,6 @@
-*.out
-test.c
-betty_report
-hsh
+*
+!*.*
+!AUTHORS
+.editorconfig
+a.out
+!man_shell
